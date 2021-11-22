@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agungyitno
+- 👋 Hi, I’m Agung Prayitno
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel SPA with Vue.js
 - 💞️ I’m looking to collaborate on ...
