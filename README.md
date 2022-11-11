@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agung Prayitno
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel SPA with Vue.js
+- 🌱 I’m currently learning Express JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
