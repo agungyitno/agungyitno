@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Agung Prayitno
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Express JS
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning NodeJS, ExpressJS & React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Agung.prayitno2k16@gmail.com
 
 <!---
 agungyitno/agungyitno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
