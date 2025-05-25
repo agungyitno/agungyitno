@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agung Prayitno
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning NodeJS, ExpressJS & React
+- 👀 I’m interested in Website Development
+- 🌱 I’m currently learning Go lang, VueJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Agung.prayitno2k16@gmail.com
 
